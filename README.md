@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi 👋, I'm Szymon
+## About Me
 
-<!--
-**Kepins/Kepins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer who thrives on turning ideas into reality through code and is constantly seeking new challenges and opportunities for growth. I am excited about the limitless possibilities that technology offers and the opportunity to collaborate with like-minded individuals.
+Little things you need to know:
+- 🏫 4th year studying Computer Science at Gdańsk University of Technology
+- ⚡Experience with developing REST APIs
+- 📫 How to reach me: <a href=https://www.linkedin.com/in/szymon-k%C4%99pi%C5%84ski/>LinkedIn</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and tools
+### Programming languages:
+- Professional experience with Python
+- Proficiency with C/C++ and Java
+### Web Frameworks:
+- Django
+- Flask
+- FastAPI
+### Devops:
+- Great knowledge of Docker
+- Writing pipelines in GitLab-CI and GitHub actions
+### Task queues:
+- Using Celery with services like RabbitMQ and Redis
+### SQL databases:
+- Professional experience with PostgreSQL
+- Used MySQL for some projects
+### Version control systems:
+- Many years of experience with GitHub
+- Professional experience with GitLab
