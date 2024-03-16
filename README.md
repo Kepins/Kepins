@@ -10,7 +10,7 @@ Little things you need to know:
 ## Languages and tools
 ### Programming languages:
 - Professional experience with Python
-- Proficiency with C/C++ and Java
+- Proficiency with C/C++, C# and Java
 ### Web Frameworks:
 - Django
 - Flask
